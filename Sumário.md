@@ -12,6 +12,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 1. [Introdução](Capitulos/introducao.md)
 1. [Por que ser libertário](Capitulos/porque.md)
 1. [O que é ser libertário](Capitulos/oquee.md)
+1. [Como se tornar um libertário](Capitulos/Como.md)
 1. [Defesa da liberdade](Capitulos/instalacao.md)
 1. [Conceitos básicos](Capitulos/comandos.md)
 1. [Criando sua própria imagem como um libertário](Capitulos/criandoimagem.md)
