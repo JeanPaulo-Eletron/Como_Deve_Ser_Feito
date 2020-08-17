@@ -31,7 +31,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 23 -  [Processos por violação de contratos no libertarianismo](Capitulos/processos.md)  
 24 -  [Vínculo trabalhistas](Capitulos/vinculos.md)  
 25 -  [Concorrência](Capitulos/concorrencia.md)    
-26 -  [Telecomunicações descentralizadas](apitulos/Telecomunicacoes-descentralizadas.md)  
+26 -  [Telecomunicações descentralizadas](Capitulos/Telecomunicacoes-descentralizadas.md)  
 27 -  [E os pobres? Caridade no libertarianismo](Capitulos/Caridade.md)  
 28 -  [E o meio ambiente?](Capitulos/paridade.md)  
 29 -  [Administrando grupos de ativismo](Capitulos/admin.md)  
