@@ -21,7 +21,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 12 -  [Como acumular capital? e como a poupança nos ajuda?](Capitulos/AcumuloDeCapital.md)  
 13 -  [Entendendo a rede do BitCoin, como é uma moeda privada?](Capitulos/rede.md)  
 14 -  [Espalhando o libertárianismo em múltiplos ambientes](Capitulos/Expalhando.md)  
-15 -  [Gerenciando grupos de estudo - ](Capitulos/GruposDeEstudo.md)  
+15 -  [Gerenciando grupos de estudo](Capitulos/GruposDeEstudo.md)  
 16 -  [Tribunais privados](Capitulos/TribunaisPrivados.md)  
 17 -  [Empresas de segurança privada](Capitulos/EmpresasDeSegurança.md)  
 18 -  [Contratos de cooperação militar e guerras](Capitulos/Guerras.md)  
