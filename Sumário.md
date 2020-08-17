@@ -6,7 +6,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 
 ## Sumário
 
-1 -  [Organização](Capitulos/organizacao.md)
+1 -  [Organização](Capitulos/organizacao.md)  
 2 -  [Propósito desse livro](Capitulos/proposito.md)
 3 -  [Agradecimentos](Capitulos/agradecimentos.md)
 4 -  [Introdução](Capitulos/introducao.md)
