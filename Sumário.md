@@ -2,8 +2,8 @@
 
 Este livro serve para dar uma base para novos entrantes no ancapismo.
 Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e empresariais de como implantar o libertarianismo em algum lugar do mundo.
-> Autor: **[Jean Paulo Athanazio De Mei](https://github.com/JeanPaulo-Eletron)**
-> Coautor: **[Jean Paulo Athanazio De Mei](https://github.com/JeanPaulo-Eletron)**
+> Autor: **[Jean Paulo Athanazio De Mei](https://github.com/JeanPaulo-Eletron)**  
+> Coautor: **[Jetro Costa](https://github.com/Jetro-Costa)**  
 > Coautor: **[Jean Paulo Athanazio De Mei](https://github.com/JeanPaulo-Eletron)**
 ## Sumário
 
