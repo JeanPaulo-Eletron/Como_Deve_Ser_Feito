@@ -37,8 +37,8 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 1. [Como fazer memes que defendam a causa da liberdade?](Capitulos/Memes.md)
 1. [Como se armar mesmo sendo proibido?](Capitulos/rodando_aplicacoes_gui.md)
 1. [Legalização do aborto, quando deve ser permitido?](Capitulos/aborto.md)
-1. [Marketing, como espalhar o libertarianismo?](Capitulos/Marketing.md)
-  1. [Marketing de guerrilha](Capitulos/MarketingGuerrilha.md)
+1. [Marketing, como espalhar o libertarianismo?](Capitulos/Marketing.md)&nbsp;
+  1. [Marketing de guerrilha](Capitulos/MarketingGuerrilha.md)&nbsp;
 1. [Leis contratualistas: Direitos dos animais, Leis de patentes, Leis morais](Capitulos/LeisContratualistas.md)
 1. [Cidades Privas! Como funciona e como construir uma?](Capitulos/CidadesPrivadas.md)
 1. [Produtividade e desenvolvimento pessoal](Capitulos/melhorar.md)
