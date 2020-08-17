@@ -1,10 +1,8 @@
 Sistema descentralizado de justiça privada e estatal(transição tá galerinha ancap que nem Jô):
-Eles são capturados certo, lá na delegacia ele vai ter o direito dele e da vítima decidirem qual tribunal irá julgar o caso deles, caso eles não chegem em um 
-acordo eles delegam algum tribunal escolher também por acordo entre os dois tribunais (o da vítima e o do acusado) qual tribunal será julgado os dois, esses 
-tribunais podem delegar a outros tribunais caso não chegar em acordo, isso recursivamente até encontrar o tribunal que vai julgar aquele caso, uma informação 
-importante: liberar ter uma lei permitindo tribunais privados, e cadeias privadas, e aquele tribunal vai decidir para onde ele vai, quais são as condições sanitárias dele lá, 
-e por quanto tempo ele vai ficar dentro do escopo da lei, se por acaso tribunal ele fizer alguma condenação que não va de acordo com a lei, ele poderá processar diretamente 
-o Tribunal, substituindo o sistema de Segunda instância, o processo de escolha do tribunal vai ocorrer como se o tribunal fosse uma pessoa física, da mesma forma que se uma 
-empresa fosse processada também iria correr como se fosse uma pessoa física, nesse caso O Condenado irá custear as despesas, casas esse prove correto, o tribunal que 
-condenou deverá pagar uma parcela dos custos, que pode chegar a até 100% mais uma multa ao estado ou cidade privada que mediou isso, isso novamente, recursivamente, em 
-infinitas instâncias enquanto o acusado ou o tribunal tiver dinheiro pra bancar isso.
+
+Pessoas são capturadas, na delegacia a vítima e o acusado terão o direito de decidirem qual tribunal julgará o caso, se um tribunal não for escolhido eles delegariam algum tribunal para escolher também por acordo entre os dois tribunais(o da vítima e o do acusado) qual será responsável pelo caso. Esses tribunais podem delegar a outros tribunais 
+caso não chegar em acordo, isso recursivamente até chegar a um consenso.
+
+Uma informação importante:
+
+Aprovar uma lei reconhecendo tribunais e cadeias exclusivamente como privados, especificando é claro, uma transição nas privatizações. Essa decisão leva em conta que o estado não deve interferir ou atentar contra a propriedade de um indivídu. Estes tribunais devem processar dentro do escopo da lei, caso contrário o acusado poderá processar diretamente o tribunal, substituindo o sistema de segunda instância, sendo o registro do tribunal usado no processo, análogo ao usar o CNPJ no processo de uma empresa. Caso o acusado se prove inocente, o tribunal processado deverá pagar os custos do processo em valor integral ou uma parcela, isso recursivamente, em infinitas instâncias enquanto o acusado ou o tribunal puderem bancar, desde que um tribunal não julgue o mesmo processo duas vezes. 
