@@ -13,3 +13,15 @@ Entretanto, há diversos projetos internet pesquisando formas de torná-la realm
 
 Além da dificuldade dos softwares em si, deve-se solucionar os problemas de hardwares que impedem a efetivação de telecomunicações descentralizadas.
 Por exemplo, nos protocolos atuais há a necessidade de um endereço único IP, ou MAC adrres único na rede para ter uma comunicação adequada.
+
+Citando softwares atuais que tem em seu funcionamento a descentralização e ou semi descentralização contudo funcionando sobre os protocolos da internet, temos: Torrents, I2p, Freenet,Onion/Tor, Bitcoin e suas descendentes, Ares, etc. Citei apenas alguns porém a lista é imensa.
+
+- Agora te pergunto. Do porque tanta demora para a implementação de soluções descentralizadas?
+
+Primeiro, soluções descentralizadas, em geral, demandam que cada pessoa contribua de alguma forma para utilizar a mesma.
+
+É um tema que somente começou a ser abordado até no início da computação somente quando os processos paralelos em hardware surgiram, ou seja, há uma demora imensa no desenvolvimento de peças para essas soluções.
+
+O início da computação foi dominado pelo desenvolvimento centralizado, propriedade intelectual, grandes corporações. Isso tendeu a diminuir bastante após o projeto GNU/Linux conseguir boicotar tais atitudes e oferecer mais benefícios perante estes.
+
+Softwares que promoviam a pirataria (conceito de lunáticos que acreditam em propriedade intelectual), foram amplamente caçados pela justiça estatal e derrubados. Exemplo: Napster P2P file sharing.
