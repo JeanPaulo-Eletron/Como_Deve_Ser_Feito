@@ -1,4 +1,4 @@
-### Telecomunicações descentralizadas
+## Telecomunicações descentralizadas
 
 Para a efetivação do ancapstão, deve-se ter obrigatoriamente protocolos e infraestruturas de telecomunicações totalmente descentralizada e ou distribuídas.
 Fato é que sociedades libertárias além de terem por base a ética e a moral libertária. Dependem disponibilidade de informações baratas, caso o contrário, surgirão instituições ou empresas que tenderam a monopolizá-las, agregando grande poderes e culminando em corporações com atitudes tirânicas semelhantes ao estado.
@@ -25,3 +25,7 @@ Primeiro, soluções descentralizadas, em geral, demandam que cada pessoa contri
 O início da computação foi dominado pelo desenvolvimento centralizado, propriedade intelectual, grandes corporações. Isso tendeu a diminuir bastante após o projeto GNU/Linux conseguir boicotar tais atitudes e oferecer mais benefícios perante estes.
 
 Softwares que promoviam a pirataria (conceito de lunáticos que acreditam em propriedade intelectual), foram amplamente caçados pela justiça estatal e derrubados. Exemplo: Napster P2P file sharing.
+
+Um grande passo para a descentralização de tudo é o fornecimento de hardware barato. Pode-se afirmar que já iniciamos os passos para este caminho, visto que há diversas empresas que fornecem hardware barato e open-source (o que é de grande benefício para soluções descentralizadas).
+
+Segue-se uma breve lista: raspberry, Pine 64, https://en.wikipedia.org/wiki/Single-board_computer, https://en.wikipedia.org/wiki/List_of_open-source_computing_hardware, https://en.wikipedia.org/wiki/Open-source_hardware
