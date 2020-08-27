@@ -14,7 +14,7 @@ Entretanto, há diversos projetos internet pesquisando formas de torná-la realm
 Além da dificuldade dos softwares em si, deve-se solucionar os problemas de hardwares que impedem a efetivação de telecomunicações descentralizadas.
 Por exemplo, nos protocolos atuais há a necessidade de um endereço único IP, ou MAC adrres único na rede para ter uma comunicação adequada.
 
-Citando softwares atuais que tem em seu funcionamento a descentralização e ou semi descentralização contudo funcionando sobre os protocolos da internet, temos: Torrents, I2p, Freenet,Onion/Tor, Bitcoin e suas descendentes, Ares, etc. Citei apenas alguns porém a lista é imensa.
+Citando softwares atuais que tem em seu funcionamento a descentralização e ou semi descentralização contudo funcionando sobre os protocolos da internet, temos: http://www.bittorrent.org/, https://geti2p.net/en/, https://freenetproject.org/, http://www.torproject.org/, https://bitcoincore.org/ e suas descendentes, http://www.ares.net/, etc. Citei apenas alguns porém a lista é imensa.
 
 - Agora te pergunto. Do porque tanta demora para a implementação de soluções descentralizadas?
 
