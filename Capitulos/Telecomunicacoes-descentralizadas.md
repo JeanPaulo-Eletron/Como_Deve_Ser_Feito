@@ -29,3 +29,5 @@ Softwares que promoviam a pirataria (conceito de lunáticos que acreditam em pro
 Um grande passo para a descentralização de tudo é o fornecimento de hardware barato. Pode-se afirmar que já iniciamos os passos para este caminho, visto que há diversas empresas que fornecem hardware barato e open-source (o que é de grande benefício para soluções descentralizadas).
 
 Segue-se uma breve lista: raspberry, Pine 64, https://en.wikipedia.org/wiki/Single-board_computer, https://en.wikipedia.org/wiki/List_of_open-source_computing_hardware, https://en.wikipedia.org/wiki/Open-source_hardware
+
+Juntamente com hardwares acessecíveis, temos o desenvolvimento colaborativo acessível a qualquer pessoa com acesso a internet. Isto permite minimizar os erros de programação, melhorar a eficiência, eficácia, efetividade dos projetos; deixando-os de forma a executar as tarefas, para as quais foi projetado, da melhor maneira.
