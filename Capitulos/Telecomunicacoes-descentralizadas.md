@@ -30,5 +30,5 @@ Um grande passo para a descentralização de tudo é o fornecimento de hardware 
 
 Segue-se uma breve lista: raspberry, Pine 64, https://en.wikipedia.org/wiki/Single-board_computer, https://en.wikipedia.org/wiki/List_of_open-source_computing_hardware, https://en.wikipedia.org/wiki/Open-source_hardware
 
-Juntamente com hardwares acessecíveis, temos o desenvolvimento colaborativo acessível a qualquer pessoa com acesso a internet. Isto permite minimizar os erros de programação, melhorar a eficiência, eficácia, efetividade dos projetos; deixando-os de forma a executar as tarefas, para as quais foi projetado, da melhor maneira.
-Provas de sucesso deste método são os softwares desenvolvidos pela GNU, o GNU/Linux, a família de softwares livre BSD, PostgreSQL, o projeto Mozilla, e a lista se este e muito. Apesar de os softwares citados já terem tidos problemas graves, rápidamente a comunidade formece uma solução adequada em tempo hábio.
+Em companhia de hardwares acessíveis, temos o desenvolvimento colaborativo acessível a qualquer pessoa com acesso à internet. Isto permite minimizar os erros de programação, melhorar a eficiência, eficácia, efetividade dos projetos; deixando-os de forma a executar as tarefas, para as quais foi projetado, da melhor maneira.
+Provas de sucesso deste método são os softwares desenvolvidos pela GNU, o GNU/Linux, a família de softwares livre BSD, PostgreSQL, o projeto Mozilla, e a lista se este e muito. Apesar de os softwares citados já terem tido problemas graves, rapidamente a comunidade forneceu uma solução adequada em tempo hábil.
