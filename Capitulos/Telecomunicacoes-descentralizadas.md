@@ -32,3 +32,5 @@ Segue-se uma breve lista: raspberry, Pine 64, https://en.wikipedia.org/wiki/Sing
 
 Em companhia de hardwares acessíveis, temos o desenvolvimento colaborativo acessível a qualquer pessoa com acesso à internet. Isto permite minimizar os erros de programação, melhorar a eficiência, eficácia, efetividade dos projetos; deixando-os de forma a executar as tarefas, para as quais foi projetado, da melhor maneira.
 Provas de sucesso deste método são os softwares desenvolvidos pela GNU, o GNU/Linux, a família de softwares livre BSD, PostgreSQL, o projeto Mozilla, e a lista se este e muito. Apesar de os softwares citados já terem tido problemas graves, rapidamente a comunidade forneceu uma solução adequada em tempo hábil.
+
+Fora os aspectos acima citados, a comunidade de softwares livres tem um forte movimento de personalização pessoal dos softawares instalado. Além disso, eles incentivam ativamente aos usuários publicarem suas ideias e customizações seja aonde for.
