@@ -34,3 +34,5 @@ Em companhia de hardwares acessíveis, temos o desenvolvimento colaborativo aces
 Provas de sucesso deste método são os softwares desenvolvidos pela GNU, o GNU/Linux, a família de softwares livre BSD, PostgreSQL, o projeto Mozilla, e a lista se este e muito. Apesar de os softwares citados já terem tido problemas graves, rapidamente a comunidade forneceu uma solução adequada em tempo hábil.
 
 Fora os aspectos acima citados, a comunidade de softwares livres tem um forte movimento de personalização pessoal dos softawares instalado. Além disso, eles incentivam ativamente aos usuários publicarem suas ideias e customizações seja aonde for.
+
+Enfim, dê preferência a soluções de código fonte abertas sejam quais elas forem.
