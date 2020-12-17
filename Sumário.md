@@ -47,7 +47,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 36 -  [Produtividade e desenvolvimento pessoal](Capitulos/melhorar.md)  
 37 -  [Economia deflacionária e criptomoedas](Capitulos/Criptomoedas.md)  
 38 -  [Como o controle de preços destroi a economia?](Capitulos/ControleDePrecos.md)  
-39 -  [Monopólios no livre mercado não são ruins!](Capitulos/Monopolios.md) 
+39 -  [Monopólios no livre mercado não são ruins!](Capitulos/Monopolios.md)  
 40 -  [Dicas avulsas](Capitulos/dicas.md)  
 41 -  [Apêndice](Capitulos/apendice.md)  
 41 -  [Links e bibliografia](Capitulos/Links.md)  
