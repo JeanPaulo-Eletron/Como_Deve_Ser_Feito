@@ -30,7 +30,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 21 -  [História do libertárianismo](Capitulos/servicosdeapoio.md)  
 22 -  [Como construir estradas?](Capitulos/construir.md)  
 23 -  [Processos por violação de contratos no libertarianismo](Capitulos/processos.md)  
-24 -  [Vínculo trabalhistas](Capitulos/vinculos.md)  
+24 -  [Vínculos trabalhistas](Capitulos/vinculos.md)  
 25 -  [Concorrência](Capitulos/concorrencia.md)    
 26 -  [Telecomunicações descentralizadas](Capitulos/Telecomunicacoes-descentralizadas.md)  
 27 -  [E os pobres? Caridade no libertarianismo](Capitulos/Caridade.md)  
