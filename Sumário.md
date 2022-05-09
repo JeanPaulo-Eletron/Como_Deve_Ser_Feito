@@ -43,7 +43,7 @@ Ele visa elaborar estratégias gradualistas, agoristas, puristas, humanistas e e
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 1 - [Marketing de guerrilha](Capitulos/MarketingDeGuerrilha.md)  
 34 -  [Leis contratualistas: Direitos dos animais, Leis de patentes, Leis morais](Capitulos/LeisContratualistas.md)  
-35 -  [Cidades Privas! Como funciona e como construir uma?](Capitulos/CidadesPrivadas.md)  
+35 -  [Cidades Privadas! Como funciona e como construir uma?](Capitulos/CidadesPrivadas.md)  
 36 -  [Produtividade e desenvolvimento pessoal](Capitulos/melhorar.md)  
 37 -  [Economia deflacionária e criptomoedas](Capitulos/Criptomoedas.md)  
 38 -  [Como o controle de preços destroi a economia?](Capitulos/ControleDePrecos.md)  
